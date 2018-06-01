@@ -1,0 +1,35 @@
+                            
+/* TEAM */
+
+                            
+Your title: Kamil Wajszczuk.
+
+                            
+Site: kamil.wajszczuk@gmail.com, link to a contact form, etc.
+
+                            
+Twitter: your Twitter username.
+
+                            
+Location: Warsaw, Poland.
+
+							
+/* THANKS */
+
+							
+Name: name or url    
+
+                            
+/* SITE */
+
+                            
+Last update: 2018/05/07 
+
+                            
+Standards: HTML5, CSS3, JAVASCRIPT.
+
+                            
+Components: Modernizr, jQuery.
+
+                            
+Software: Brackets.
